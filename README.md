@@ -13,10 +13,10 @@
 - 🌐 Experienced with **microservices**, **API Gateway**, **Eureka**, **Keycloak**, **Docker**, and **CI/CD pipelines**.  
 - ☁️ Deploying apps on **AWS (EC2, RDS)** and **GCP (Cloud SQL, VM)** using **GitHub Actions** and automation scripts.  
 - 🔧 Currently learning more about **Github Actions**, **Caching and performance optimization** with Redis, and **Observability** with OpenTelemetry and Prometheus.
-- 🎓 Engineering student at **Universidad del Cauca** | English level: **B2 certified**.
+- 🎓 Systems Engineer from the **Universidad del Cauca** | English level: **B2 certified**.
 - 🎉 I enjoy working in **agile teams**, applying **DDD**, clean code principles, and learning tools that help me write better software.
 
-📫 Reach me at: **joangomezsebas@gmail.com** · **jtuquerrez@unicauca.edu.co**
+📫 Reach me at: **joangomezsebas@gmail.com**
 
 ---
 
